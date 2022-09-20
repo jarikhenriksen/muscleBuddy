@@ -2,9 +2,44 @@ html {
     color: aliceblue;
     font-family: 'Roboto Condensed', sans-serif;
     font-family: 'Source Sans Pro', sans-serif;
+    font-size: 2rem;
 }
 
 .background {
     background-image: url('images/layered-waves-haikei.svg');
-    
+}
+
+#box {
+    background: rgba(255, 255, 255, 0.082);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(4.4px);
+    -webkit-backdrop-filter: blur(4.4px);
+    padding: 2%;
+    margin-top: 5%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    text-align: center;
+    align-content: center;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+}
+
+section {
+    width: 100%;
+}
+
+#stretch {
+    margin-right: 5%;
+}
+
+#strength {
+    margin-left: 5%;
 }
