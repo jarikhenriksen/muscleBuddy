@@ -1,0 +1,81 @@
+{
+    "arms": [
+        {"biceps": [
+            {"stretchs": [
+                {"notes": "add stretches"}
+            ]},
+            {"image": "image link"}
+        ]},
+
+        {"triceps": [
+            {"stretchs": [
+                {"notes": "add stretches"}
+            ]},
+            {"image": "image link"}
+        ]},
+
+        {"forearm": [
+            {"stretchs": [
+                {"notes": "add stretches"}
+            ]},
+            {"image": "image link"}
+        ]}
+    ],
+
+    "chest": [
+        {"stretches": [
+            {"notes": "add stretches"}
+        ]},
+        {"image": "image link"}
+    ],
+
+    "shoulders": [
+        {"Anterior Deltoid": [
+            {"stretches": [
+                {"notes": "add stretches"}
+            ]},
+            {"image": "image link"}
+        ]},
+
+        {"posterior deltoid": [
+            {"stretches": [
+                {"notes": "add stretches"}
+            ]},
+            {"image": "image link"}
+        ]},
+
+        {"lateral deltoid": [
+            {"stretches": [
+                {"notes": "add stretches"}
+            ]},
+            {"image": "image link"}
+        ]}
+    ],
+
+    "back": [
+        {"latisimus dorsi": [
+            {"stretches": [
+                {"notes": "add stretches"}
+            ]},
+            {"image": "image link"}
+        ]},
+
+        {"trapezius": [
+            {"stretches": [
+                {"notes": "add stretches"}
+            ]},
+            {"image": "image link"}
+        ]},
+
+        {"lower back": [
+            {"stretches": [
+                {"notes": "add stretches"}
+            ]},
+            {"image": "image link"}
+        ]}
+    ],
+
+    "abs": [
+        
+    ]
+}
