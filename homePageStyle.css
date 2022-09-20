@@ -1,0 +1,10 @@
+html {
+    color: aliceblue;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.background {
+    background-image: url('images/layered-waves-haikei.svg');
+    
+}
