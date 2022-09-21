@@ -76,6 +76,13 @@
     ],
 
     "abs": [
+        {"stretches": [
+            {"notes": "add stretches"}
+        ]},
+        {"image": "image link"}
+    ],
+
+    "legs": [
         
     ]
 }
